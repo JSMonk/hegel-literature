@@ -1,6 +1,6 @@
-# Hegel Literature
+# Hegel Literature 
+<img src="./logo.png" width="150"> 
 
-![Hegel.js](./logo.png) 
 
 
 | Тема                          | Ссылки                                                            |
