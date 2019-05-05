@@ -1,4 +1,4 @@
-# Hegel Literature 
+# Hegel Literature and Demos
 <img src="./logo.png" width="150"> 
 
 
