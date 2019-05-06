@@ -13,3 +13,4 @@
 | Структура и Интерпретация Компьютерных Программ     | https://www.ozon.ru/context/detail/id/5322055   |
 | Dragon Book                   | https://www.ozon.ru/context/detail/id/3829076                     |
 | Sea of Nodes                  | https://darksi.de/d.sea-of-nodes                                  |
+| Variances                     | https://habr.com/ru/post/218753/                                  |
