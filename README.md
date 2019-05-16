@@ -14,3 +14,5 @@
 | Dragon Book                   | https://www.ozon.ru/context/detail/id/3829076                     |
 | Sea of Nodes                  | https://darksi.de/d.sea-of-nodes                                  |
 | Variances                     | https://habr.com/ru/post/218753/                                  |
+| Don't use cast                     | https://gustedt.wordpress.com/2014/04/02/dont-use-casts-i/   |
+| Лекции по выводу типов в GHC 8.8   | https://www.youtube.com/watch?v=_HYI7zjkrEs                  |
